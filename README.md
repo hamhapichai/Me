@@ -12,6 +12,9 @@ My name is Apichai Butdee, You can call me Ham🍔.
 ## Skills
 - 👨‍💻 Golang, Dart, Python, Java, C++, VB.<span>NET, JavaScript, PHP, Arduino C
 - ⚙️ React, Robot Framework Selenium
+- 💽 SQL, Firebase RTDB, MongoDB
+- 📑 Word, Power Point, Excel
+- 🎨 Photoshop, Vegas, Premiere Pro, Final Cut
 
 ## Hobbies
 - FPS Gamer 🎮
@@ -19,7 +22,6 @@ My name is Apichai Butdee, You can call me Ham🍔.
 - Tech nerd 🤓
 
 ## Contact
-- [CS'Apichai Butdee](https://www.facebook.com/cs.apichai.butdee/) on Facebook
-- [@hamhapichai](https://line.me/ti/p/rrBA54_Mot) on Line
+- hamhapichai@gmail.com
 - [@WatDaFxck](https://t.me/WatDaFxck) on Telegram
 - [WatDaFxck#9999](./) on Discord
