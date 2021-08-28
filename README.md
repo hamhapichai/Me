@@ -13,6 +13,11 @@ My name is Apichai Butdee, You can call me Ham🍔.
 - 👨‍💻 Golang, Dart, Python, Java, C++, VB.<span>NET, JavaScript, PHP, Arduino C
 - ⚙️ React, Robot Framework Selenium
 
+## Hobbies
+- FPS Gamer 🎮
+- Listening to music 🎧
+- Tech nerd 🤓
+
 ## Contact
 - [CS'Apichai Butdee](https://www.facebook.com/cs.apichai.butdee/) on Facebook
 - [@hamhapichai](https://line.me/ti/p/rrBA54_Mot) on Line
