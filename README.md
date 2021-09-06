@@ -27,6 +27,6 @@ My name is Apichai Butdee, You can call me Ham🍔.
 - [WatDaFxck#9999](./) on Discord
 
 <p align="center">
-Random MEME ❤<br>
+Random MEME for you ❤<br>
   <img  src='https://random-memer.herokuapp.com/'  title="Meme" width="400" height="400" alt="Please refresh the page if the meme doesn't show up.">
 </p>
