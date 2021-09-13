@@ -24,7 +24,7 @@ My name is Apichai Butdee, You can call me Ham🍔.
 ## Contact
 - hamhapichai@gmail.com
 - [@WatDaFxck](https://t.me/WatDaFxck) on Telegram
-- [WatDaFxck#9999](./) on Discord
+- [WatDaFxck#2092](./) on Discord
 
 <p align="center">
 Random MEME for you ❤<br>
