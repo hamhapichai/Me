@@ -5,7 +5,7 @@
 ## Hello there! 👋
 My name is Apichai Butdee, You can call me Ham🍔.
 
-- 👨‍🎓 Junior Computer Sci student at Kampheang Phet Rajabhat University
+- 👨‍🎓 Senior Computer Sci student at Kampheang Phet Rajabhat University
 
 - 🙋‍♂️ I am always energetic and eager to learn new skills.
 
@@ -24,7 +24,6 @@ My name is Apichai Butdee, You can call me Ham🍔.
 ## Contact
 - butdee.api@gmail.com
 - [@WatDaFxck](https://t.me/WatDaFxck) on Telegram
-- [WatDaFxck#2092](./) on Discord
 
 <p align="center">
 Random MEME for you ❤<br>
