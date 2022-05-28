@@ -24,8 +24,3 @@ My name is Apichai Butdee, You can call me Ham🍔.
 ## Contact
 - butdee.api@gmail.com
 - [@WatDaFxck](https://t.me/WatDaFxck) on Telegram
-
-<p align="center">
-Random MEME for you ❤<br>
-  <img  src='https://random-memer.herokuapp.com/'  title="Meme" width="400" height="400" alt="Please refresh the page if the meme doesn't show up.">
-</p>
