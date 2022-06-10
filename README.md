@@ -23,4 +23,3 @@ My name is Apichai Butdee, You can call me Ham🍔.
 
 ## Contact
 - butdee.api@gmail.com
-- [@WatDaFxck](https://t.me/WatDaFxck) on Telegram
